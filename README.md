@@ -1,14 +1,17 @@
 # Netflix Content Strategy Analysis
 Context:
+
 Netflix, leader mondial du streaming, s’appuie sur un catalogue international riche et diversifié pour soutenir sa croissance et maintenir son avantage concurrentiel.
 Dans un environnement marqué par une intensification de la concurrence (Disney+, Amazon Prime, HBO…), la compréhension de la stratégie de production et de distribution devient un levier clé de différenciation.
 Ce projet se concentre sur l'analyse de la composition structurelle du catalogue Netflix via les données disponibles.
 
 
 Problématique:
+
 Comment les données du catalogue Netflix permettent-elles d’identifier les axes stratégiques de production, de saisonnalité et d’internationalisation ?
 
 Objectifs d'analyse:
+
 1. Quelle est la dynamique d’évolution du volume de contenus dans le temps ?
 2. Existe-t-il des effets saisonniers dans la stratégie de sortie ?
 3. Quels pays jouent un rôle structurant dans la production ?
@@ -16,9 +19,11 @@ Objectifs d'analyse:
 5. Observe-t-on des adaptations locales dans le mix contenu ?
 
 Jeu de données:
+
 Dataset public du catalogue Netflix (format CSV)
 
 Préparation & Modélisation:
+
 Préparation des données sous Power BI (Power Query) : nettoyage, standardisation et création de variables temporelles.
 Modélisation en schéma en étoile avec tables de dimensions (Date, Pays, Genre, Rating) et table de faits centrale, permettant une analyse multidimensionnelle performante.
 
