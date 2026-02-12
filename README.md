@@ -30,12 +30,15 @@ Structure du dashboard:
 Le dashboard est organisé autour de quatre axes d’analyse :
 1. Tendance globale – Évolution du volume de contenus dans le temps
 <img width="720" height="408" alt="image" src="https://github.com/user-attachments/assets/ef4dc172-3112-4774-ada5-7e23308ccc35" />
+
 2. Saisonnalité – Répartition saisonnière et mensuelle des sorties
 <img width="581" height="378" alt="image" src="https://github.com/user-attachments/assets/50e87c6a-b3aa-40c7-8b29-e8726e9d3a38" />
 <img width="585" height="387" alt="image" src="https://github.com/user-attachments/assets/5abd142b-2181-4783-8ae6-ea39c66b431f" />
+
 3. Répartition géographique – Pays producteurs et co-productions
 <img width="768" height="536" alt="image" src="https://github.com/user-attachments/assets/26ce7290-bc75-4ebc-a51e-41cd02b04084" />
 <img width="522" height="525" alt="image" src="https://github.com/user-attachments/assets/f36dd148-fc8e-4412-9477-27fb14d131b7" />
+
 4. Segmentation des contenus – Type, genres et classifications
 <img width="660" height="564" alt="image" src="https://github.com/user-attachments/assets/09b7752e-c2d2-4dda-876b-13b4b394c983" />
 <img width="600" height="561" alt="image" src="https://github.com/user-attachments/assets/366c7748-1985-4518-ad50-0e83c463d10f" />
