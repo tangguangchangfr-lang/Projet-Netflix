@@ -9,11 +9,11 @@ Problématique:
 Comment les données du catalogue Netflix permettent-elles d’identifier les axes stratégiques de production, de saisonnalité et d’internationalisation ?
 
 Objectifs d'analyse:
-Quelle est la dynamique d’évolution du volume de contenus dans le temps ?
-Existe-t-il des effets saisonniers dans la stratégie de sortie ?
-Quels pays jouent un rôle structurant dans la production ?
-Quels genres et classifications dominent le catalogue ?
-Observe-t-on des adaptations locales dans le mix contenu ?
+1. Quelle est la dynamique d’évolution du volume de contenus dans le temps ?
+2. Existe-t-il des effets saisonniers dans la stratégie de sortie ?
+3. Quels pays jouent un rôle structurant dans la production ?
+4. Quels genres et classifications dominent le catalogue ?
+5. Observe-t-on des adaptations locales dans le mix contenu ?
 
 Jeu de données:
 Dataset public du catalogue Netflix (format CSV)
@@ -30,10 +30,10 @@ Structure du dashboard:
 Le dashboard est organisé autour de quatre axes d’analyse :
 1. Tendance globale – Évolution du volume de contenus dans le temps
 <img width="720" height="408" alt="image" src="https://github.com/user-attachments/assets/ef4dc172-3112-4774-ada5-7e23308ccc35" />
-2. Saisonnalité - – Répartition saisonnière et mensuelle des sorties
+2. Saisonnalité – Répartition saisonnière et mensuelle des sorties
 <img width="581" height="378" alt="image" src="https://github.com/user-attachments/assets/50e87c6a-b3aa-40c7-8b29-e8726e9d3a38" />
 <img width="585" height="387" alt="image" src="https://github.com/user-attachments/assets/5abd142b-2181-4783-8ae6-ea39c66b431f" />
-3. Répartition géographique - – Pays producteurs et co-productions
+3. Répartition géographique – Pays producteurs et co-productions
 <img width="768" height="536" alt="image" src="https://github.com/user-attachments/assets/26ce7290-bc75-4ebc-a51e-41cd02b04084" />
 <img width="522" height="525" alt="image" src="https://github.com/user-attachments/assets/f36dd148-fc8e-4412-9477-27fb14d131b7" />
 4. Segmentation des contenus – Type, genres et classifications
