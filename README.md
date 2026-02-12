@@ -64,7 +64,7 @@ Implications stratégiques:
 3. Renforcer les co-productions internationales: Les contenus transnationaux sont déjà très présents, Netflix pourrait développer encore davantage de partenariats multi-pays.
 4. Adapter plus finement les genres aux préférences locales: Les différences culturelles observées montrent que Netflix a intérêt à adapter encore davantage ses contenus selon les régions.
 
-Outils utilisés
+Outils utilisés:
 Power BI (modélisation et visualisation)
 Power Query (transformation des données)
 Modélisation en schéma en étoile
